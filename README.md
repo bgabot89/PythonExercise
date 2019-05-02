@@ -1,2 +1,4 @@
-# bgabot89
 # PythonExercise
+Python Exercises from promatch workshop
+
+
